@@ -1,8 +1,9 @@
 # Sharkify-Technology-Pvt.-Ltd.
-Sharkify Technology, a leader in digital marketing, provides cutting-edge Ai digital marketing solutions and branding with offices in India and the USA, driving global success for businesses since 2023.
+Sharkify Technology, a leader in digital marketing, provides cutting-edge Ai digital marketing solutions and branding with offices in India and the USA, driving global success for businesses since 2023.  ||
+
 Unlock Your Digital Potential with Sharkify.ai: The Ultimate Social Media Toolkit
 In the dynamic world of digital marketing, staying ahead requires innovation, precision, and a well-rounded strategy. Sharkify.ai offers a comprehensive toolkit designed to simplify social media management, optimize marketing efforts, and drive exceptional results. Whether you’re a startup, SME, or enterprise, Sharkify.ai empowers your brand to grow and thrive in today’s competitive landscape.
-Why Sharkify.ai?
+Why Sharkify.ai? 
 Sharkify.ai is not just a tool; it's your digital growth partner. Our platform leverages advanced AI and data-driven strategies to help you manage your social media presence, craft impactful campaigns, and maximize ROI.
 ________________________________________
 Key Features of Sharkify.ai
